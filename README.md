@@ -31,16 +31,16 @@ Also, I can’t emphasize enough how important is for the new user to READ the o
 ## INSTALLATION
 For LOCAL, SYSTEM and USER paths relative to Blender in LINUX, MAC and PC, please refer <a href="https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html" target="_blank">to this guide.</a><br>
 
-For Blender 2.9x series:
+For Blender 2.9x to 3.4 series:
 1. Download your version theme file from this repo
-2. Unzip and locate Blender_V_v02-4.xml
+2. Unzip, and locate Blender_V_v02-4.xml
 3. Open Blender. Go to Edit> User Preferences> Themes> Install theme> Select Blender_V_v02-4.xml from your unzipped folder location
 4. Blender's UI will change color
 5. In Blender go to FILE> Open, select "startup.blend" (from the unzipped config folder). This will open an empty file with all the tab presets ready
 6. File> Defaults> Save Startup file
-7. Quit and Restart Blender. You should see your theme.
+7. Quit and Restart Blender. You should see Blender V theme active.
 8. If you want to further resemble the preferences I use on my videos, copy "userpref.blend" from the unzipped "config" folder, and paste it
-into C:\Users\YOURUSER\AppData\Roaming\Blender Foundation\Blender\3.4\config (Windows Blender Path). Click "accept" to replace the file.
+into C:\Users\YOURUSER\AppData\Roaming\Blender Foundation\Blender\3.4\config (Windows Blender Path). Click "accept" to replace the file. Otherwise just delete the "userpref.blend" file from the unzipped folder and create your own preferences inside Blender (text size, text colors, etc...)
 
 ## Changelog:
 Blender_V_v02-4
