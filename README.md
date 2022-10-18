@@ -24,7 +24,7 @@ Also, I can’t emphasize enough how important is for the new user to READ the o
 ![Highlight pressed menu button](/img/Selections05.webp)
 *New users can quickly identify which is the last selected and the active selected elements.*
 
-> You can see extensive details as to why these color choices were necessary in this video covering NLA, Tracker, Grease Pencil, VSE and other editors.
+> You can see extensive details as to why these color choices were necessary in video presentation at the bottom of this page covering NLA, Tracker, Grease Pencil, VSE and other editors.
 
 
 
@@ -33,14 +33,20 @@ For LOCAL, SYSTEM and USER paths relative to Blender in LINUX, MAC and PC, pleas
 
 For Blender 2.9x series:
 1. Download your version theme file from this repo
-2. Unzip and locate Softimage_292.xml
-3. Open Blender. Go to Edit> User Preference
+2. Unzip and locate Blender_V_v02-4.xml
+3. Open Blender. Go to Edit> User Preferences> Themes> Install theme> Select Blender_V_v02-4.xml from your unzipped folder location
+4. Blender's UI will change color
+5. In Blender go to FILE> Open, select "startup.blend" (from the unzipped config folder). This will open an empty file with all the tab presets ready
+6. File> Defaults> Save Startup file
+7. Quit and Restart Blender. You should see your theme.
+8. If you want to further resemble the preferences I use on my videos, copy "userpref.blend" from the unzipped "config" folder, and paste it
+into C:\Users\YOURUSER\AppData\Roaming\Blender Foundation\Blender\3.4\config (Windows Blender Path). Click "accept" to replace the file.
 
 ## Changelog:
-SOFTIMAGE Theme v01. - Blender 2.9x series
-  - "XSIMOD theme" name changes to "Softimage Theme" for Blender.
+Blender_V_v02-4
+  - "Color compatible editing spaces" Green: Animatable (keyframes, nla), Yellow (editable: Uvs, vertex, mesh), White (main selections), Blue (secondary selected items), NLA clips are yellow because they are editable containers for animation, if you press TAB they will turn green, giving you the context of "keyable" editing.
   - VSE and Movie clip custom workspaces were customized.
-  - New previously non-existent workspaces i
+  
 
 Click on the following thumbnail to watch the **Blender V theme features in this video**:
 
