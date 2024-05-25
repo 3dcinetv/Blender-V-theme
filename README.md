@@ -57,5 +57,5 @@ alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
 ## AUTHOR
 <a href="https://github.com/3dcinetv" target="_blank">Pierre Schiller</a><br>
 
-## DONATION
-In case you find this theme helpful, you can donate by visiting [:white_check_mark: My BLOG](https://3dcinetv.com/blender-v-darker-ui-for-blender-to-showcase-your-work), and scroll to the bottom of the page through the Gumroad link.
+## ALT Link
+In case you find this theme helpful, you can visit [:white_check_mark: My BLOG](https://3dcinetv.com/blender-v-darker-ui-for-blender-to-showcase-your-work), and scroll to the bottom of the page through the Gumroad link.
