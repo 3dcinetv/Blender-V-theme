@@ -32,7 +32,15 @@ Also, I can’t emphasize enough how important is for the new user to READ the o
 
 
 ## INSTALLATION
-For LOCAL, SYSTEM and USER paths relative to Blender in LINUX, MAC and PC, please refer <a href="https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html" target="_blank">to this guide.</a><br>
+For LOCAL, SYSTEM and USER paths relative to Blender in LINUX, MAC and PC, please refer <a href="https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html" target="_blank">to this guide.</a><be>
+
+For Blender 4.2x to 5+ series:
+1. Visit https://extensions.blender.org/themes and search for "sylized-V theme"
+2. Click on the "Get Theme", it will turn to "Drag and drop" button.
+3. Resize your browser and resize your Blender app to fit both in your monitor at the same time.
+4. Drag and drop the web button "Drag and Drop" into Blender. Stylize-V theme will auto-load.
+*Use the installation method described below to download the theme from this github page.*   
+
 
 For Blender 2.9x to 3.4 series:
 1. Download your version theme file from this repo
