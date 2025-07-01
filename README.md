@@ -48,6 +48,7 @@ into C:\Users\YOURUSER\AppData\Roaming\Blender Foundation\Blender\3.4\config (Wi
 
 ## Changelog(May 202%):
 Blender_V_v02-5
+  - "Blender extensions requested to change the name. Name chosen "Stylized-V" theme" 
   - "Image Render Background set to darker gray" 
 
 ## Changelog:
