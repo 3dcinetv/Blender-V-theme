@@ -1,8 +1,11 @@
-# Blender-V-theme
+# Stylize-V theme
 🏆 Darker UI with context matching colors for selection, editing, highlighting through all the editors.
-I created this theme because a lot of users in the community were asking for a darker theme that was sober to read even if you’re an experienced 3D user or a client gazing at the workspace. I wanted to make it easier for the UI to point to the little crucial buttons in the UI which were grayed when you click on them.
+I created this theme because a lot of users in the community were asking for a darker theme that was sober to read even if you’re an experienced 3D user or a client gazing at the workspace. Created in 2022.
 
 Unnecessary multi-colored bones are distracting, so the selected colored channels by Blender’s default theme add to the visual noise. All bone channels in the NLA, Graph editor, DopeSheet were edited to have sober colors. Everything about these choices are explained in a 14 minute video in the link at the end of the thread.
+
+![Highlight pressed menu button](/img/Theme_win_bg.webp)
+*ImageEditor, Background color matches dark gray theme*
 
 ![Highlight pressed menu button](/img/Blender-Neutral-bone-colors02.webp)
 *DOPESHEET, NLA tracks in neutral color and selectable/editable in green*
@@ -41,6 +44,11 @@ For Blender 2.9x to 3.4 series:
 7. Quit and Restart Blender. You should see Blender V theme active.
 8. If you want to further resemble the preferences I use on my videos, copy "userpref.blend" from the unzipped "config" folder, and paste it
 into C:\Users\YOURUSER\AppData\Roaming\Blender Foundation\Blender\3.4\config (Windows Blender Path). Click "accept" to replace the file. Otherwise just delete the "userpref.blend" file from the unzipped folder and create your own preferences inside Blender (text size, text colors, etc...)
+
+
+## Changelog(May 202%):
+Blender_V_v02-5
+  - "Image Render Background set to darker gray" 
 
 ## Changelog:
 Blender_V_v02-4
